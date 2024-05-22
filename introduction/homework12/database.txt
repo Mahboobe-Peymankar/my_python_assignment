@@ -1,0 +1,5 @@
+film,The Fall Guy 2024,David Leitch,106,score
+series,xmen 97,Stan Lee,90,score
+documentary,aa,dd,60,score
+series,ab,dd,36,score
+clip,ad,dd,15,score
